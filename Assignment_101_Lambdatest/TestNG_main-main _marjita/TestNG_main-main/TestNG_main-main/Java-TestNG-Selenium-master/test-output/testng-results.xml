@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T16:00:00Z" name="Suite" finished-at="2022-07-22T16:03:30Z" duration-ms="209831">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T16:00:00Z" name="MacOS Test" finished-at="2022-07-22T16:02:17Z" duration-ms="137575">
+      <class name="com.lambdatest.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:00:00Z" name="setUpClass" finished-at="2022-07-22T16:00:51Z" duration-ms="50847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:00:51Z" name="scenarioOne" finished-at="2022-07-22T16:01:09Z" duration-ms="18089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:09Z" name="close" finished-at="2022-07-22T16:01:09Z" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:09Z" name="setUpClass" finished-at="2022-07-22T16:01:21Z" duration-ms="11308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:21Z" name="secondScenario" finished-at="2022-07-22T16:01:36Z" duration-ms="15559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:36Z" name="close" finished-at="2022-07-22T16:01:37Z" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:37Z" name="setUpClass" finished-at="2022-07-22T16:01:51Z" duration-ms="13663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:01:51Z" name="thirdScenario" finished-at="2022-07-22T16:02:17Z" duration-ms="26104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5386659f]" started-at="2022-07-22T16:02:17Z" name="close" finished-at="2022-07-22T16:02:17Z" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.lambdatest.Testng1 -->
+    </test> <!-- MacOS Test -->
+    <test started-at="2022-07-22T16:00:00Z" name="Windows 7 Test" finished-at="2022-07-22T16:02:47Z" duration-ms="166857">
+      <class name="com.lambdatest.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:00:00Z" name="setUpClass" finished-at="2022-07-22T16:00:51Z" duration-ms="50718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:00:51Z" name="scenarioOne" finished-at="2022-07-22T16:01:08Z" duration-ms="17594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:01:08Z" name="close" finished-at="2022-07-22T16:01:09Z" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:01:09Z" name="setUpClass" finished-at="2022-07-22T16:01:50Z" duration-ms="41099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:01:50Z" name="secondScenario" finished-at="2022-07-22T16:02:06Z" duration-ms="15551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:02:06Z" name="close" finished-at="2022-07-22T16:02:06Z" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:02:06Z" name="setUpClass" finished-at="2022-07-22T16:02:21Z" duration-ms="14206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:02:21Z" name="thirdScenario" finished-at="2022-07-22T16:02:46Z" duration-ms="25192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@cb0755b]" started-at="2022-07-22T16:02:46Z" name="close" finished-at="2022-07-22T16:02:47Z" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.lambdatest.Testng1 -->
+    </test> <!-- Windows 7 Test -->
+    <test started-at="2022-07-22T16:00:00Z" name="Windows 10 Test" finished-at="2022-07-22T16:03:28Z" duration-ms="208226">
+      <class name="com.lambdatest.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:00:00Z" name="setUpClass" finished-at="2022-07-22T16:00:11Z" duration-ms="11581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:00:11Z" name="scenarioOne" finished-at="2022-07-22T16:00:34Z" duration-ms="22200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:00:34Z" name="close" finished-at="2022-07-22T16:00:34Z" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:00:34Z" name="setUpClass" finished-at="2022-07-22T16:01:21Z" duration-ms="46791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:01:21Z" name="secondScenario" finished-at="2022-07-22T16:01:37Z" duration-ms="16134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:01:37Z" name="close" finished-at="2022-07-22T16:01:38Z" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:01:38Z" name="setUpClass" finished-at="2022-07-22T16:03:01Z" duration-ms="83685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:03:01Z" name="thirdScenario" finished-at="2022-07-22T16:03:28Z" duration-ms="26360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@353352b6]" started-at="2022-07-22T16:03:28Z" name="close" finished-at="2022-07-22T16:03:28Z" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.lambdatest.Testng1 -->
+    </test> <!-- Windows 10 Test -->
+    <test started-at="2022-07-22T16:00:00Z" name="Windows 10" finished-at="2022-07-22T16:03:30Z" duration-ms="209823">
+      <class name="com.lambdatest.Testng1">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:00:00Z" name="setUpClass" finished-at="2022-07-22T16:00:16Z" duration-ms="16113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenarioOne()[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:00:16Z" name="scenarioOne" finished-at="2022-07-22T16:00:36Z" duration-ms="20045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:00:36Z" name="close" finished-at="2022-07-22T16:00:36Z" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:00:36Z" name="setUpClass" finished-at="2022-07-22T16:02:35Z" duration-ms="118547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="secondScenario()[pri:1, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:02:35Z" name="secondScenario" finished-at="2022-07-22T16:02:53Z" duration-ms="17803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:02:53Z" name="close" finished-at="2022-07-22T16:02:53Z" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:02:53Z" name="setUpClass" finished-at="2022-07-22T16:03:01Z" duration-ms="7997" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="thirdScenario()[pri:2, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:03:01Z" name="thirdScenario" finished-at="2022-07-22T16:03:29Z" duration-ms="27788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdScenario -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lambdatest.Testng1@5b247367]" started-at="2022-07-22T16:03:29Z" name="close" finished-at="2022-07-22T16:03:30Z" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.lambdatest.Testng1 -->
+    </test> <!-- Windows 10 -->
+  </suite> <!-- Suite -->
+</testng-results>
